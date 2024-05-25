@@ -23,7 +23,6 @@ void PrintNumbersInDiaposone(int num1, int num2)
         Console.Write($"{num1}, ");
         PrintNumbersInDiaposone(num1 - 1, num2);
     }
-
 }
 
 Console.WriteLine("Введите натуральое число M: ");
