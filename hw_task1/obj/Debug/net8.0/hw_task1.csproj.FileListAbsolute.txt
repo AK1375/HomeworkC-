@@ -1,0 +1,15 @@
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\bin\Debug\net8.0\hw_task1.exe
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\bin\Debug\net8.0\hw_task1.deps.json
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\bin\Debug\net8.0\hw_task1.runtimeconfig.json
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\bin\Debug\net8.0\hw_task1.dll
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\bin\Debug\net8.0\hw_task1.pdb
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.GeneratedMSBuildEditorConfig.editorconfig
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.AssemblyInfoInputs.cache
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.AssemblyInfo.cs
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.csproj.CoreCompileInputs.cache
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.sourcelink.json
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.dll
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\refint\hw_task1.dll
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.pdb
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\hw_task1.genruntimeconfig.cache
+X:\Учебная\Курс Знакомство с языками программирования\ResultHomework\HomeworkC-\hw_task1\obj\Debug\net8.0\ref\hw_task1.dll
